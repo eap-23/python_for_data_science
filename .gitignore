@@ -12,3 +12,6 @@ venv/
 
 #Ignore the Course Resource Files
 Refactored_Py_DS_ML_Bootcamp-master/
+
+#Ignore .ipynb_checkpoints folder
+.ipynb_checkpoints/
