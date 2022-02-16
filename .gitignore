@@ -15,3 +15,6 @@ Refactored_Py_DS_ML_Bootcamp-master/
 
 #Ignore .ipynb_checkpoints folder
 .ipynb_checkpoints/
+
+#Ignore all_banks pickled data
+My_Notes/Section12_DataCapstone/all_banks
